@@ -7,6 +7,11 @@ Interactive Power BI dashboard for sales, revenue, profitability, and business p
 An interactive Power BI dashboard designed to analyze sales performance, revenue, profitability, and key business trends.
 
 This project demonstrates practical Power BI skills including data modeling, DAX, interactive visualizations, dashboard design and Dataflow Gen2 in Microsoft Fabric.
+### Data Preparation & Dataflow
+
+Data was prepared and transformed using Power Query/Dataflow too.
+
+![WWI Dataflow](screenshots/dataflow.png)
 
 ## Key Features
 
