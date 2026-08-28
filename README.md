@@ -11,11 +11,12 @@ This project demonstrates practical Power BI skills including data modeling, DAX
 
 Data was prepared and transformed using Power Query/Dataflow too.
 
-![WWI Dataflow](screenshots/dataflow.png)
+![WWI Dataflow](screenshot)
 
 ## Key Features
 
 * Executive KPI overview
+* Individual Page KPI
 * Revenue and profit analysis
 * Sales performance trends
 * Customer and product analysis
@@ -24,6 +25,12 @@ Data was prepared and transformed using Power Query/Dataflow too.
 * Dynamic time-based analysis
 * KPI and performance indicators
 * Modern, recruiter-friendly dashboard design
+* Sync Slicer
+* UI
+* Field Parameters
+* Page navigation
+* Tooltip
+
 
 ## Power BI Skills Demonstrated
 
@@ -39,6 +46,7 @@ Data was prepared and transformed using Power Query/Dataflow too.
 * Drill-down Analysis
 * Report Navigation
 * Dashboard UX/UI Design
+* Sync Slicer
 
 ## Project Files
 
